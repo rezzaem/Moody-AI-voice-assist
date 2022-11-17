@@ -71,8 +71,6 @@ while True:
   elif 'hello' in query:
     speak('Hello there!')
   
-  elif 'cow' in query:
-    speak('I am a robot, I do not have judjement but according to the wikipedia , the result is mohammad behroozi or mambozi.')
   
   elif 'goodbye' in query:
     speak('Goodbye!')
